@@ -1,2 +1,2 @@
 # acme
-This is a pro1ect on acma
+This is a project on acma
